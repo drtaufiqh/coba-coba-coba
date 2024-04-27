@@ -12,3 +12,13 @@ Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'status_pernikahan',
 Best Accuracy: 0.8884120171673819
 
 Data 200 estimator missingpy ADASYN
+
+Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'status_pernikahan', 'pendapatan', 'jumlah_anak_remaja', 'terakhir_belanja', 'belanja_buah', 'belanja_daging', 'belanja_ikan', 'pembelian_diskon', 'pembelian_web', 'day', 'dow')
+Best Accuracy: 0.8991869918699187
+
+Data 200 estimator missingpy SMOTETomek
+
+Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'status_pernikahan', 'pendapatan', 'jumlah_anak_remaja', 'terakhir_belanja', 'belanja_daging', 'belanja_ikan', 'belanja_kue', 'pembelian_diskon', 'pembelian_web', 'pembelian_toko', 'day')
+Best Accuracy: 0.9852941176470589
+
+Data 200 estimator missingpy SMOTEENN
