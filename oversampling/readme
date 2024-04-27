@@ -1,1 +1,14 @@
-readme
+Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'status_pernikahan', 'pendapatan', 'jumlah_anak_balita', 'belanja_buah', 'belanja_daging', 'belanja_ikan', 'pembelian_diskon', 'pembelian_web', 'pembelian_toko', 'day_after', 'day')
+Best Accuracy: 0.9100145137880987
+
+Data 200 estimator missingpy SMOTE
+
+Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'status_pernikahan', 'pendapatan', 'jumlah_anak_balita', 'terakhir_belanja', 'belanja_buah', 'belanja_ikan', 'belanja_kue', 'pembelian_web', 'pembelian_toko', 'day', 'dow')
+Best Accuracy: 0.9071117561683599
+
+Data 200 estimator missingpy Borderline
+
+Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'status_pernikahan', 'pendapatan', 'terakhir_belanja', 'belanja_daging', 'belanja_ikan', 'pembelian_diskon', 'pembelian_web', 'pembelian_toko', 'day', 'month', 'dow')
+Best Accuracy: 0.8884120171673819
+
+Data 200 estimator missingpy ADASYN
