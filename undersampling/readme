@@ -2,3 +2,8 @@ Best Feature Combination: ('tahun_kelahiran', 'pendapatan', 'jumlah_anak_remaja'
 Best Accuracy: 0.8755364806866953
 
 NCR 250 est
+
+Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'status_pernikahan', 'pendapatan', 'terakhir_belanja', 'belanja_daging', 'belanja_ikan', 'belanja_kue', 'pembelian_diskon', 'pembelian_web', 'pembelian_toko', 'day_after', 'month')
+Best Accuracy: 0.7749077490774908
+
+NearMiss 250 est
