@@ -1,0 +1,4 @@
+Best Feature Combination: ('tahun_kelahiran', 'pendapatan', 'jumlah_anak_remaja', 'terakhir_belanja', 'belanja_buah', 'belanja_daging', 'pembelian_diskon', 'pembelian_web', 'pembelian_toko', 'day_after', 'day', 'month', 'dow')
+Best Accuracy: 0.8755364806866953
+
+NCR 250 est
