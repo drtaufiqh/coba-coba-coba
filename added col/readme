@@ -3,3 +3,8 @@ Best Accuracy: 0.7591623036649214
 Number Feature Combination: 16
 
 data 29 col 250 estimator
+
+Best Feature Combination: ('tahun_kelahiran', 'status_pernikahan', 'pendapatan', 'jumlah_anak_remaja', 'terakhir_belanja', 'belanja_buah', 'belanja_daging', 'belanja_ikan', 'belanja_kue', 'pembelian_diskon', 'pembelian_web', 'pembelian_toko', 'day_after', 'iso_week', 'month', 'dow', 'dayofyear')
+Best Accuracy: 0.7670157068062827
+
+data 25 col 400 estimator
