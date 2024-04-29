@@ -8,3 +8,28 @@ Best Feature Combination: ('tahun_kelahiran', 'status_pernikahan', 'pendapatan',
 Best Accuracy: 0.7670157068062827
 
 data 25 col 400 estimator
+
+data type for 25 col 400 estimator
+
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 3817 entries, 0 to 3816
+Data columns (total 17 columns):
+ #   Column              Non-Null Count  Dtype  
+---  ------              --------------  -----  
+ 0   tahun_kelahiran     3817 non-null   int64  
+ 1   status_pernikahan   3817 non-null   int64  
+ 2   pendapatan          3817 non-null   float64
+ 3   jumlah_anak_remaja  3817 non-null   int64  
+ 4   terakhir_belanja    3817 non-null   int64  
+ 5   belanja_buah        3817 non-null   float64
+ 6   belanja_daging      3817 non-null   float64
+ 7   belanja_ikan        3817 non-null   float64
+ 8   belanja_kue         3817 non-null   float64
+ 9   pembelian_diskon    3817 non-null   int64  
+ 10  pembelian_web       3817 non-null   int64  
+ 11  pembelian_toko      3817 non-null   int64  
+ 12  day_after           3817 non-null   int64  
+ 13  iso_week            3817 non-null   int64  
+ 14  month               3817 non-null   int64  
+ 15  dow                 3817 non-null   int64  
+ 16  dayofyear           3817 non-null   int64
