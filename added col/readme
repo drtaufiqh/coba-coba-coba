@@ -73,3 +73,9 @@ Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'status_pernikahan',
 Best Accuracy: 0.7719298245614035
 
 data clean noise 0 and 1
+
+
+Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'status_pernikahan', 'pendapatan', 'terakhir_belanja', 'belanja_buah', 'belanja_daging', 'belanja_ikan', 'belanja_kue', 'pembelian_diskon', 'pembelian_web', 'pembelian_toko', 'day_after', 'iso_week', 'dow', 'dayofyear', 'week_of_month')
+Best Accuracy: 0.7936046511627907
+
+data 3439 clean noise 0 and 1
