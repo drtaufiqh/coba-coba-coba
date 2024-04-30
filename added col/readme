@@ -33,3 +33,12 @@ Data columns (total 17 columns):
  14  month               3817 non-null   int64  
  15  dow                 3817 non-null   int64  
  16  dayofyear           3817 non-null   int64
+
+
+
+Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'pendapatan', 'jumlah_anak_remaja', 'belanja_buah', 'belanja_daging', 'belanja_ikan', 'belanja_kue', 'pembelian_diskon', 'pembelian_web', 'pembelian_toko', 'day_after', 'iso_week', 'month', 'dow', 'dayofyear', 'week_of_month') 
+Best Accuracy: 0.7951482479784366 
+Number Feature Combination: 17
+
+
+
