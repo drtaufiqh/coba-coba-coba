@@ -67,3 +67,9 @@ dtypes: float64(5), int64(13)
 
 
 Data noise 25 col 400 est
+
+
+Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'status_pernikahan', 'pendapatan', 'terakhir_belanja', 'belanja_buah', 'belanja_daging', 'belanja_ikan', 'belanja_kue', 'pembelian_diskon', 'pembelian_web', 'pembelian_toko', 'day_after', 'iso_week', 'month', 'dayofyear', 'week_of_month') 
+Best Accuracy: 0.7719298245614035
+
+data clean noise 0 and 1
