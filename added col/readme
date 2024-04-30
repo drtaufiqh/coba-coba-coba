@@ -40,5 +40,30 @@ Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'pendapatan', 'jumla
 Best Accuracy: 0.7951482479784366 
 Number Feature Combination: 17
 
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 3701 entries, 0 to 3700
+Data columns (total 18 columns):
+ #   Column              Non-Null Count  Dtype  
+---  ------              --------------  -----  
+ 0   tahun_kelahiran     3701 non-null   int64  
+ 1   pendidikan          3701 non-null   int64  
+ 2   pendapatan          3701 non-null   float64
+ 3   jumlah_anak_remaja  3701 non-null   int64  
+ 4   belanja_buah        3701 non-null   float64
+ 5   belanja_daging      3701 non-null   float64
+ 6   belanja_ikan        3701 non-null   float64
+ 7   belanja_kue         3701 non-null   float64
+ 8   pembelian_diskon    3701 non-null   int64  
+ 9   pembelian_web       3701 non-null   int64  
+ 10  pembelian_toko      3701 non-null   int64  
+ 11  day_after           3701 non-null   int64  
+ 12  iso_week            3701 non-null   int64  
+ 13  month               3701 non-null   int64  
+ 14  dow                 3701 non-null   int64  
+ 15  dayofyear           3701 non-null   int64  
+ 16  week_of_month       3701 non-null   int64  
+ 17  jumlah_promosi      3701 non-null   int64  
+dtypes: float64(5), int64(13)
+
 
 
