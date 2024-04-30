@@ -3,6 +3,12 @@ Best Feature Combination: ('tahun_kelahiran', 'status_pernikahan', 'pendapatan',
 Best Accuracy: 0.7486910994764397
 Number Feature Combination: 16
 Current time: 2024-04-30 16:36:55
+22 col 250 est
 ===========================================
 
-22 col 250 est
+
+Best Feature Combination: ('tahun_kelahiran', 'status_pernikahan', 'pendapatan', 'jumlah_anak_remaja', 'belanja_buah', 'belanja_daging', 'belanja_ikan', 'belanja_kue', 'pembelian_diskon', 'pembelian_web', 'pembelian_toko', 'day', 'month', 'year', 'dow', 'dayofyear', 'weekofyear')
+Best Accuracy: 0.7460732984293194
+Number Feature Combination: 17
+23 col 250 est
+===========================================
