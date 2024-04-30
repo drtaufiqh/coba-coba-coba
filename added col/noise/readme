@@ -1,1 +1,8 @@
 clean noise
+
+Num Iteration:  24
+Best Feature Combination: ('tahun_kelahiran', 'pendidikan', 'status_pernikahan', 'pendapatan', 'jumlah_anak_remaja', 'terakhir_belanja', 'belanja_buah', 'belanja_daging', 'belanja_ikan', 'belanja_kue', 'pembelian_diskon', 'pembelian_web', 'pembelian_toko', 'iso_week', 'day', 'dow', 'week_of_month')
+Best Accuracy: 0.8157894736842105
+Number Feature Combination: 17
+
+cleanes noise 25 col 400 est
