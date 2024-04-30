@@ -1,3 +1,5 @@
 noise (1) reducing more class 1 than noise
 
 clean 0 and 1 reduce class 0 from noise (1)
+
+clean 0 and 1 (1) has 3439 row, more conservative for class 0
